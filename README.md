@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and Advanced CSS**
 - 👯 I’m looking to collaborate on **Open Source web applications**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[your-email@example.com](devangajudiya01@gmail.com)**
 - ⚡ Fun fact: **I can center a div in my sleep!**
 
 ---
