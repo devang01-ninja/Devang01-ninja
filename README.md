@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm DEVANG AJUDIYA 
+# Hi there , I'm DEVANG AJUDIYA  👋
 
 ### A passionate Website Developer crafting engaging and responsive web experiences.
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and Advanced CSS**
 - 👯 I’m looking to collaborate on **Open Source web applications**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
-- 📫 How to reach me: **[your-email@example.com](devangajudiya01@gmail.com)**
+- 📫 How to reach me: devangajudiya01@gmail.com
 - ⚡ Fun fact: **I can center a div in my sleep!**
 
 ---
